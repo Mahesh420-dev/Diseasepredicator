@@ -34,7 +34,7 @@ Disease_Detector/
 ⚙️ Installation
 
 Clone the repository:
-git clone https://github.com/your-username/Disease_Detector.git
+git clone https://github.com/mahesh420/Disease_detect.git
 cd Disease_Detector
 
 
