@@ -1,4 +1,4 @@
-# Diseasepredicator
+# Disease-predicator
 🩺 Disease Detector
 
 📌 Overview
@@ -31,23 +31,12 @@ Disease_Detector/
 │── models/                  # Saved ML models
 │── data/                    # Dataset (if available)
 
-⚙️ Installation
-
-Clone the repository:
-git clone https://github.com/mahesh420/Disease_detect.git
-cd Disease_Detector
 
 
-Create and activate a virtual environment (recommended):
-python -m venv venv
-source venv/bin/activate    # On Linux/Mac
-venv\Scripts\activate       # On Windows
 
 
-Install dependencies:
-pip install -r requirements.txt
 
-▶️ Usage
+▶️ Usage:
 
 Open Colab Notebook:
 
@@ -67,9 +56,8 @@ Save trained model for later usage
 🔮 Future Improvements
 Build a Streamlit Web App for user-friendly interaction
 Expand dataset for more disease categories
-Add Deep Learning models for better accuracy
-Deploy on Cloud (AWS/GCP/Heroku)
+Add Deep Learning models for better accuracy.
 
 👨‍💻 Author
-mahesh
+mahesh.p
 📧 Email: rajachorar@gmail.com
